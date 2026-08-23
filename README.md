@@ -47,5 +47,4 @@ The purpose of this project is to implement and compare recursive and non-recurs
 
 ## Contributors
 
-- @mohabw88
-- Aya Abdelrahman
+ @mohabw88 Aya Abdelrahman 
